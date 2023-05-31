@@ -5,10 +5,10 @@ A place for all of my completed assignments in this Data Structures & Algorthims
 Topics include:
 
 Recurrence
-Arrays
-Sorting
-Hashing
-Search Trees
-String Matching
-Graphs and Graph Traversal
-Dynamic Programming
+* Arrays
+* Sorting
+* Hashing
+* Search Trees
+* String Matching
+* Graphs and Graph Traversal
+* Dynamic Programming
